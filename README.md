@@ -1,1 +1,1 @@
-# devlog-api
+# DevLog API
